@@ -1,6 +1,6 @@
-Bash to Python Transpiler
+**# Bash to Python Transpiler**
 
-Overview
+**##Overview**
 
 The Bash to Python Transpiler is a tool that converts Bash scripts into Python code efficiently. It scans the Bash script, identifies syntax structures, and generates equivalent Python code while handling basic syntax corrections. The transpiler provides a user-friendly graphical interface for smooth interaction and quick conversion.
 
