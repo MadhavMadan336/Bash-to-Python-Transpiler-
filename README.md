@@ -64,7 +64,7 @@ cd Bash-to-Python-Transpiler-
 ### **Step 6: Compile the Java Source Files**
 Run the following command to compile the Java source files:
 ```sh
-javac -encoding UTF-8 *.java
+javac*.java
 ```
 Ensure there are no compilation errors before proceeding.
 
